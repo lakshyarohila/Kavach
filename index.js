@@ -1,6 +1,6 @@
-const { rejects } = require('assert');
+
 const crypto = require('crypto');
-const { resolve } = require('path');
+
 
 const SALT_LENGTH = 16;
 const ITERATIONS = 100000;
