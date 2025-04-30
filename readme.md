@@ -85,7 +85,7 @@ Password match? ✅ true
 
 ## 📄 License
 
-MIT © 2025 YourName
+MIT © 2025 Lakshya Rohila
 
 ---
 
