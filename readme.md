@@ -1,4 +1,4 @@
-Great! Here's the updated `README.md` for your password hashing library, now named **`kavach.js`** 🔐🛡️:
+
 
 ---
 
@@ -89,4 +89,3 @@ MIT © 2025 YourName
 
 ---
 
-Let me know if you'd like a logo or badge for this library too!
