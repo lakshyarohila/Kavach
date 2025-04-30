@@ -2,14 +2,12 @@
   "name": "kavach",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+ 
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Lakshya Rohila",
+  "license": "MIT",
   "type": "commonjs",
-  "description": "",
+  "description": "A minimal password hashing library using Node.js ",
   "dependencies": {
     "crypto": "^1.0.1"
   }
